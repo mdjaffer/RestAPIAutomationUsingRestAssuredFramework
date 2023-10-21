@@ -1,2 +1,8 @@
+com\restapi\payloads\UserPayload.class
+com\restapi\utilities\ExcelUtility.class
 com\restapi\utilities\ExtentReportManager.class
+com\restapi\endpoints\UserEndPoints.class
+com\restapi\test\BasicTests.class
 com\restapi\AppTest.class
+com\restapi\urls\Urls.class
+com\restapi\utilities\DataProviders.class

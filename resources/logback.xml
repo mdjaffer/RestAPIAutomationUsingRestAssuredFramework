@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="true">
+
+    <!-- Define the appenders -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>./logs/logfile.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%date{ISO8601} [%-5level] %logger{35} - %message%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Define the root logger -->
+    <root level="INFO">
+        <appender-ref ref="FILE" />
+    </root>
+</configuration>
