@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-21T23:04:23 IST" name="PetSuite" finished-at="2023-10-21T23:04:31 IST" duration-ms="7720">
+  <suite started-at="2023-10-22T13:09:33 IST" name="PetSuite" finished-at="2023-10-22T13:09:40 IST" duration-ms="7382">
     <groups>
     </groups>
-    <test started-at="2023-10-21T23:04:23 IST" name="PetTests" finished-at="2023-10-21T23:04:31 IST" duration-ms="7720">
+    <test started-at="2023-10-22T13:09:33 IST" name="PetTests" finished-at="2023-10-22T13:09:40 IST" duration-ms="7382">
       <class name="com.restapi.AppTest">
-        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:com.restapi.AppTest@28dcca0c]" started-at="2023-10-21T23:04:23 IST" name="shouldAnswerWithTrue" finished-at="2023-10-21T23:04:23 IST" duration-ms="5" status="PASS">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:com.restapi.AppTest@69504ae9]" started-at="2023-10-22T13:09:33 IST" name="shouldAnswerWithTrue" finished-at="2023-10-22T13:09:33 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
       </class> <!-- com.restapi.AppTest -->
       <class name="com.restapi.test.BasicTests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.restapi.test.BasicTests@194fad1]" started-at="2023-10-21T23:04:23 IST" name="setup" finished-at="2023-10-21T23:04:23 IST" duration-ms="139" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.restapi.test.BasicTests@1f9f6368]" started-at="2023-10-22T13:09:33 IST" name="setup" finished-at="2023-10-22T13:09:33 IST" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testPostUser()[pri:1, instance:com.restapi.test.BasicTests@194fad1]" started-at="2023-10-21T23:04:23 IST" name="testPostUser" finished-at="2023-10-21T23:04:26 IST" duration-ms="2599" status="PASS">
+        <test-method signature="testPostUser()[pri:1, instance:com.restapi.test.BasicTests@1f9f6368]" started-at="2023-10-22T13:09:33 IST" name="testPostUser" finished-at="2023-10-22T13:09:36 IST" duration-ms="2413" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testGetUserByName()[pri:2, instance:com.restapi.test.BasicTests@194fad1]" started-at="2023-10-21T23:04:26 IST" name="testGetUserByName" finished-at="2023-10-21T23:04:27 IST" duration-ms="1203" status="PASS">
+        <test-method signature="testGetUserByName()[pri:2, instance:com.restapi.test.BasicTests@1f9f6368]" started-at="2023-10-22T13:09:36 IST" name="testGetUserByName" finished-at="2023-10-22T13:09:37 IST" duration-ms="1167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUserByName -->
-        <test-method signature="testUpdateUserByName()[pri:3, instance:com.restapi.test.BasicTests@194fad1]" started-at="2023-10-21T23:04:27 IST" name="testUpdateUserByName" finished-at="2023-10-21T23:04:30 IST" duration-ms="2400" status="PASS">
+        <test-method signature="testUpdateUserByName()[pri:3, instance:com.restapi.test.BasicTests@1f9f6368]" started-at="2023-10-22T13:09:37 IST" name="testUpdateUserByName" finished-at="2023-10-22T13:09:39 IST" duration-ms="2338" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUserByName -->
-        <test-method signature="testDeleteUserByName()[pri:4, instance:com.restapi.test.BasicTests@194fad1]" started-at="2023-10-21T23:04:30 IST" name="testDeleteUserByName" finished-at="2023-10-21T23:04:31 IST" duration-ms="1202" status="PASS">
+        <test-method signature="testDeleteUserByName()[pri:4, instance:com.restapi.test.BasicTests@1f9f6368]" started-at="2023-10-22T13:09:39 IST" name="testDeleteUserByName" finished-at="2023-10-22T13:09:40 IST" duration-ms="1173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUserByName -->

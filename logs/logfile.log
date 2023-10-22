@@ -1,8 +1,0 @@
-2023-10-21 23:04:23,835 [INFO ] com.restapi.test.BasicTests - ********** Creating user  ***************
-2023-10-21 23:04:26,431 [INFO ] com.restapi.test.BasicTests - **********User is creatged  ***************
-2023-10-21 23:04:26,433 [INFO ] com.restapi.test.BasicTests - ********** Reading User Info ***************
-2023-10-21 23:04:27,636 [INFO ] com.restapi.test.BasicTests - **********User info  is displayed ***************
-2023-10-21 23:04:27,639 [INFO ] com.restapi.test.BasicTests - ********** Updating User ***************
-2023-10-21 23:04:28,838 [INFO ] com.restapi.test.BasicTests - ********** User updated ***************
-2023-10-21 23:04:30,041 [INFO ] com.restapi.test.BasicTests - **********   Deleting User  ***************
-2023-10-21 23:04:31,242 [INFO ] com.restapi.test.BasicTests - ********** User deleted ***************
